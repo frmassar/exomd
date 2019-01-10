@@ -3,7 +3,7 @@
 __francois__
 ============
 
-Nouvelle étudiant dans le groupe lovelace 3.9 chez Becode
+<span style="color:blue">Nouvel étudiant dans le groupe lovelace 3.9 chez Becode</span>
 ---------------------------------------------------------
 
 1.**j'essaye de modifier mon Repo** 
